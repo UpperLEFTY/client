@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router } from '@reach/router';
-import Form from './Form';
-import reportWebVitals from './reportWebVitals';
+import Form from './form';
+import reportWebVitals from '../reportWebVitals';
 import PrivateArea from './PrivateArea';
 
 ReactDOM.render(
