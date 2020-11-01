@@ -4,6 +4,7 @@ import { ApolloClient } from 'apollo-client';
 import { HttpLink } from 'apollo-link-http';
 import { InMemoryCache } from 'apollo-cache-inmemory';
 import { ApolloProvider } from 'react-apollo';
+// eslint-disable-next-line no-unused-vars
 import { setContext } from 'apollo-link-context';
 import { Router } from '@reach/router';
 import { navigate } from '@reach/router';
